@@ -3,11 +3,11 @@
 <br>
 This is a Capstone project,  Written in HTML, CSS, JavaScript, and PHP. I want to upload it to share my work and get feedback from the community to learn more 
 
-🎏 About This Project:
+🎏 **About This Project:**
 
 This is a restaurant site. With this you can order the food of your choice online.
 
-What user can do:
+###**What user can do:**
 
 * View list of menu
 * Make table reservation
@@ -17,14 +17,14 @@ What user can do:
 * User can edit their Profile.
 
 
-What admin can do:
+**What admin can do:**
 
 * Admin can add new menu, about us. contact us,
 * Admin can upload Images etc..
 * Admin can manage table reservation.
 * Admin can manage orders.
 
-Languages & Tools:
+🔧**Languages & Tools:**
 
 * HTML/CSS, SCSS ,Javascript and PHP etc...
 
