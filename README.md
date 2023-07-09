@@ -28,4 +28,5 @@ This is a restaurant site. With this you can order the food of your choice onlin
 
 * HTML/CSS, SCSS ,Javascript and PHP etc...
 
+![Screenshot (783)](https://github.com/JheremeiArciaga/Online-Ordering-and-Reservation/assets/92977447/3460ba23-3052-45c1-8915-09c1744eba4a)
 
