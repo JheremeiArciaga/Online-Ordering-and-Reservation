@@ -2,6 +2,8 @@
 
 This is a Capstone project,  Written in HTML, CSS, JavaScript, and PHP. I want to upload it to share my work and get feedback from the community to learn more 
 
+##
+
 ## 🎏 **About This Project:**
 
 This is a restaurant site. With this you can order the food of your choice online.
@@ -24,6 +26,7 @@ This is a restaurant site. With this you can order the food of your choice onlin
 * Admin can upload Images etc..
 * Admin can manage table reservation.
 * Admin can manage orders.
+##
 
 ### 🔧**Languages & Tools:**
 
