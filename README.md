@@ -8,8 +8,6 @@ This is a Capstone project,  Written in HTML, CSS, JavaScript, and PHP. I want t
 
 This is a restaurant site. With this you can order the food of your choice online.
 
-##
-
 ### **What user can do:**
 
 * View list of menu
